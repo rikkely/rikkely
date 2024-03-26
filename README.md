@@ -4,8 +4,8 @@
 
 #  🙋 Hello
 
-![](https://visitor-badge.glitch.me/badge?page_id=beiklive)
-![](https://img.shields.io/github/last-commit/beiklive/beiklive?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)
+![](https://visitor-badge.glitch.me/badge?page_id=rikkely)
+![](https://img.shields.io/github/last-commit/rikkely/rikkely?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)
 
 <div align="center">
 	
