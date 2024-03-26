@@ -10,7 +10,7 @@
 <div align="center">
 	
 <div style="height:274px;display: flex;flex-direction: column">
-	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=rikkely&hide_title=true&hide_border=true&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
+	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=rikkely&hide_title=true&hide_border=true&show_icons=true&theme=highcontrast&count_private=true" />
 	<img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beiklive&layout=compact&theme=highcontrast" />
 </div>	
 	
