@@ -17,7 +17,7 @@
 ### 💪 Learning: 
 
 &emsp;&emsp;
-![Java](https://img.shields.io/badge/Java%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000?&logo=C%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
