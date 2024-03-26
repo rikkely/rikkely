@@ -10,14 +10,14 @@
 <div align="center">
 	
 <div style="height:274px;display: flex;flex-direction: column">
-	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=beiklive&hide_title=true&hide_border=true&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
+	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=rikkely&hide_title=true&hide_border=true&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
 	<img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beiklive&layout=compact&theme=highcontrast" />
 </div>	
 	
 ### 💪 Learning: 
 
 &emsp;&emsp;
-![Java](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000?&logo=C%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
