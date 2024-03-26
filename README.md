@@ -2,16 +2,19 @@
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://github.com/Ohto-Ai-Dev/res/raw/master/assets/beiklive/github-contribution-grid-snake.svg" /></div>
+
+
 #  🙋 Hello
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rikkely)
 ![](https://img.shields.io/github/last-commit/rikkely/rikkely?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)
 
-<div align = center>
-	
+<div align="center">
+
+ <div style="height:274px;display: flex;flex-direction: column">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rikkely&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <div align=center> <img width="300" height="200" src="https://github.com/codeman008/codeman008/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
-
+</div>	
 
 ### 💪 Learning: 
 
