@@ -1,7 +1,7 @@
 
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://github.com/rikkely/KeepGreen/blob/output/github-contribution-grid-snake-dark.svg" /></div>
+<div align="center"><img src="https://github.com/rikkely/createTanchishe/blob/output/github-contribution-grid-snake-dark.svg" /></div>
 
 
 #  🙋 Hello
